@@ -33,10 +33,7 @@
   <img src="https://next-auth.js.org/img/favicon.ico" alt="NextAuth" width="40" height="40"/>
   <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" alt="react-hook-form" width="40" height="40"/>
   <img src="https://day.js.org/img/favicon.ico" alt="Day.js" width="40" height="40"/>
-  
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelteida&" alt="michaelteida" /></p>
 
 <!--
 **MichaelTeida/michaelteida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
