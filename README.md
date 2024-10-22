@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 📫 How to reach me **kontakt@ozum.pl**
+- 📫 Reach me **kontakt@ozum.pl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
