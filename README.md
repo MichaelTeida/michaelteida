@@ -24,7 +24,6 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="40" height="40"/>
   <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" alt="REST API" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://openai.com/favicon.ico" alt="OpenAi API" width="40" height="40"/>
   <img src="https://reactrouter.com/favicon.ico" alt="react-router" width="40" height="40"/>
   <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   <img src="https://vercel.com/favicon.ico" alt="Vercel" width="40" height="40"/>
