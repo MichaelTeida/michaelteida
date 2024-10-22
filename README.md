@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michał Głuch</h1>
 <h3 align="center">A passionate Front-end Developer from Poland</h3>
 
-- 🔭 I’m currently working on [Infinify AI](https://github.com/MichaelTeida/Infinify)
+- 🔭 I’m currently working on [Infinify AI](https://github.com/MichaelTeida/Infinify) and other private projects.
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
